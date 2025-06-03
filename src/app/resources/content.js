@@ -6,11 +6,9 @@ const person = {
 
 const newsletter = {
   display: true,
-  title: <>Subscribe to Endeds Aerodynamics's Newsletter</>,
+  title: "Subscribe to Endeds Aerodynamics's Newsletter",
   description: (
-    <>
-      Subscribe to Endeds Aero updates and be the first to hear about our latest tech, product launches, and future plans.
-    </>
+      "Subscribe to Endeds Aero updates and be the first to hear about our latest tech, product launches, and future plans."
   ),
 };
 
